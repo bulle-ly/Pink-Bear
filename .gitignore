@@ -1,0 +1,7 @@
+#Di rectories
+.vs/
+bin/
+bin-int/ 
+
+#files
+*.user
